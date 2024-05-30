@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "371612928768",
+    "project_id": "fir-image-bf203",
+    "storage_bucket": "fir-image-bf203.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371612928768:android:d94050683e5ea63d3141e5",
+        "android_client_info": {
+          "package_name": "com.example.firebaseimage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu5VwgHBPwAkYjxxyhvQEwmptv6lX6fZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
